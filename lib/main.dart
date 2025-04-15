@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget
   {
     return Scaffold
       (
-      appBar: AppBar(title:Text("Floating Action Button11111"),),
+      appBar: AppBar(title:Text("Floating Action Button1111111"),),
       body: SingleChildScrollView
         (
         child: Column
